@@ -21,20 +21,6 @@
   flex-direction: column;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .logo{
   height: 32px;
   width: 183px;
@@ -283,6 +269,8 @@
 }
 
 .table__cell_theme_dark{
+  color: white;
+  margin-right: 0;
   width: 200px;
   margin-top: 80px;
 }
