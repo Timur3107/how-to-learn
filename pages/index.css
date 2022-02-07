@@ -27,7 +27,7 @@
 /* блок video */
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
-@import url(../blocks/video/__iframe/video__frame.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
 /* блок oakley */
 @import url(../blocks/oakley/oakley.css);
 /* блок feynman */
