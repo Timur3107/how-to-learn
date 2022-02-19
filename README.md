@@ -3,4 +3,4 @@
 
 **BEM** Methodology, **Nested** file structure.
 
-Functionality: User-friendly design.
+Functionality: User-friendly design, works on all modern browsers.
