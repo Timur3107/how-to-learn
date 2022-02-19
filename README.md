@@ -1,6 +1,6 @@
-# HOW-TO-LEARN
-**Hi!** This is my first project.
+# Проект: Научиться учиться
 
-**BEM** Methodology, **Nested** file structure.
 
-Functionality: User-friendly design.
+**Привет!** Это мой первый проект, на тему **<<Научиться учиться>>**.
+
+**О функциональности и технологий сайта:** **BEM** Методология, файловая структура **Nested**, **Flex-box**-верстка, приятный дизайн и анимации.
